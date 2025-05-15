@@ -7,25 +7,26 @@ All exercises are based on the YouTube tutorial:   🎥 [React Course for Beginn
 
 | #  | Topic | Folder |
 |----|-------|--------|
-| 1  | Card Components 🃏 | `01-card-components/` |
-| 2  | Add CSS Styles 🎨 | `02-css-styling/` |
-| 3  | Props 📧 | `03-props/` |
-| 4  | Conditional Rendering ❓ | `04-conditional-rendering/` |
-| 5  | Render Lists 📃 | `05-lists/` |
-| 6  | Click Events 👆 | `06-click-events/` |
-| 7  | `useState()` Hook 🎣 | `07-useState/` |
-| 8  | `onChange` Event 🚦 | `08-onchange-event/` |
-| 9  | Color Picker App 🖌 | `09-color-picker-app/` |
-| 10 | Updater Functions 🔄 | `10-updater-functions/` |
-| 11 | Update Objects in State 🚗 | `11-update-objects/` |
-| 12 | Update Arrays in State 🍎 | `12-update-arrays/` |
-| 13 | Update Array of Objects 🚘 | `13-update-array-objects/` |
-| 14 | To-do List App ☝ | `14-todo-app/` |
-| 15 | `useEffect()` Hook 🌟 | `15-useEffect/` |
-| 16 | Digital Clock App 🕒 | `16-digital-clock/` |
-| 17 | `useContext()` Hook 🧗‍♂️ | `17-useContext/` |
-| 18 | `useRef()` Hook 🗳️ | `18-useRef/` |
-| 19 | Stopwatch App ⏱ | `19-stopwatch-app/` |
+| 1  | React Tutorial Intro ⚛️ | 00-intro/ |
+| 2  | Card Components 🃏 | 01-card-components/ |
+| 3  | Add CSS Styles 🎨 | 02-css-styling/ |
+| 4  | Props 📧 | 03-props/ |
+| 5  | Conditional Rendering ❓ | 04-conditional-rendering/ |
+| 6  | Render Lists 📃 | 05-lists/ |
+| 7  | Click Events 👆 | 06-click-events/ |
+| 8  | useState() Hook 🎣 | 07-useState/ |
+| 9  | onChange Event 🚦 | 08-onchange-event/ |
+| 10 | Color Picker App 🖌 | 09-color-picker-app/ |
+| 11 | Updater Functions 🔄 | 10-updater-functions/ |
+| 12 | Update Objects in State 🚗 | 11-update-objects/ |
+| 13 | Update Arrays in State 🍎 | 12-update-arrays/ |
+| 14 | Update Array of Objects 🚘 | 13-update-array-objects/ |
+| 15 | To-do List App ☝ | 14-todo-app/ |
+| 16 | useEffect() Hook 🌟 | 15-useEffect/ |
+| 17 | Digital Clock App 🕒 | 16-digital-clock/ |
+| 18 | useContext() Hook 🧗‍♂️ | 17-useContext/ |
+| 19 | useRef() Hook 🗳️ | 18-useRef/ |
+| 20 | Stopwatch App ⏱ | 19-stopwatch-app/ |
 
 ## 🚀 Getting Started
 
@@ -50,6 +51,7 @@ Each assignment is placed in its own folder for clarity and focused learning.
 
 ```plaintext
 react-practice-assignments/
+├── 00-intro/
 ├── 01-card-components/
 ├── 02-css-styling/
 ├── ...
