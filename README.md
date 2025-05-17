@@ -30,9 +30,9 @@ All exercises are based on the YouTube tutorial:   🎥 [React Course for Beginn
 
 ## 🚀 Getting Started
 
-1. **Install dependencies**
+1. **Go to the desired folder**
 ```bash
-npm install
+cd 05-lists/
 ````
 
 2. **Run the development server**
