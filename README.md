@@ -30,12 +30,19 @@ All exercises are based on the YouTube tutorial:   🎥 [React Course for Beginn
 
 ## 🚀 Getting Started
 
-1. **Go to the desired folder**
+1. **Go to the project folder**
+
 ```bash
 cd 05-lists/
-````
+```
 
-2. **Run the development server**
+2. **Install the dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the development server**
 
 ```bash
 npm run dev
