@@ -67,3 +67,6 @@ react-practice-assignments/
 └── README.md
 ```
 
+## 📌 Notes
+This is a personal educational repository. Original video and content belong to [Bro Code](https://www.youtube.com/c/BroCodez).  
+I’m using this to reinforce my learning by writing code for each concept taught in the course.
