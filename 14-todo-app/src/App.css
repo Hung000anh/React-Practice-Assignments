@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #2b2424;
+}
+.to-do-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;   /* căn giữa theo trục dọc (chiều cao) */
+  align-items: center;       /* căn giữa theo trục ngang (chiều rộng) */
+  color: white
+}
+
+.task-input {
+  padding: 5px;
+}
+
+
+ul{
+  list-style-type: none;
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* căn giữa theo trục dọc (chiều cao) */
+  align-items: center;    /* căn giữa theo trục ngang (chiều rộng) */
+}
+
+ul li {
+  background-color: #f0f0f0;
+  color: black;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 300px; /* Đặt chiều rộng cho mỗi mục */
+  display: flex;
+  align-items: center;    /* căn giữa theo chiều dọc */
+  justify-content: center;/* căn giữa theo chiều ngang */
+}
+
+ul li:hover {
+  background-color: #e0e0e0; /* Màu nền khi hover */
+}
+
+span{
+  width: 200px;
+  text-align: center; /* Căn giữa nội dung trong span */
+  font-weight: bold;
+}
+
+input{
+  border-radius: 5px;
+}
+
+button{
+  border-radius: 5px;
+}
+.add-btn{
+  background-color: rgb(48, 190, 43);
+  padding: 5px;
+}
+
+
+.delete-btn{
+  background-color: rgb(201, 77, 77);
+}
+
+.up-btn{
+  background-color: rgb(81, 201, 77);
+}
+
+.down-btn{
+  background-color: rgb(224, 124, 78);
+}
