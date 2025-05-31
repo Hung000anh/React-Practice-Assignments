@@ -1,0 +1,22 @@
+body {
+  min-height: 100vh;
+  background-image: url(assets/rain_sakura.gif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.clock-app
+{
+  backdrop-filter: blur(5px);
+}
+
+span{
+  color: white;
+  font-size: 50px;
+}
