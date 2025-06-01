@@ -9,7 +9,7 @@ function ComponentD() {
   return (
     <div className="box">
       <h1>Component D</h1>
-      <h2>{`buy ${user}`}</h2>
+      <h2>{`bye ${user}`}</h2>
     </div>
   );
 }
